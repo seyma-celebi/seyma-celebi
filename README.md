@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Şeyma Şeyma Çelebi</h1>
 <h3 align="center">Computer Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=şeymaçelebi&label=Profile%20views&color=0e75b6&style=flat" alt="şeymaçelebi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=şeymaçelebi&theme=" alt="şeymaçelebi" /></a> </p>
-
 
 - 📫 How to reach me **seymaacelebi@gmail.com**
 
@@ -39,3 +35,6 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=şeymaçelebi&show_icons=true&locale=en&theme=" alt="şeymaçelebi" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=şeymaçelebi&theme=" alt="şeymaçelebi" /></p>
+
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
