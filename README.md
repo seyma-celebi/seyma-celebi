@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Şeyma Şeyma Çelebi</h1>
+<h1 align="center">Hi 👋, I'm Şeyma Çelebi</h1>
 <h3 align="center">Computer Engineer</h3>
 
 - 📫 How to reach me **seymaacelebi@gmail.com**
@@ -32,8 +32,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=şeymaçelebi&show_icons=true&locale=en&theme=" alt="şeymaçelebi" /></p>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=şeymaçelebi&theme=" alt="şeymaçelebi" /></p>
 
 
